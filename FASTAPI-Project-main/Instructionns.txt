@@ -1,0 +1,7 @@
+Please follow below steps to run the project.
+
+1. Install pipenv in the same directory of project by using the command prompt with command "pip install pipenv".
+2. After that install dev dependencies from pipenv by using command "pipenv install --dev"
+3. Next use command "pipenv shell" when into pipenv shell go to API Directory using "cd api" command
+4. Use "python main.py" to run the api project. You can get local host location from here and copy it and paste in broswer to see the api.
+5. Once running, add "/docs" to URL to open swagger api documentation.
